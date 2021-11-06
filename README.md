@@ -1,2 +1,3 @@
 - This is the repository for the WORP Project, property of ROI
-- 📫 Project lead email: flinn.houston@roi.com.au
+- The project members will be listed in this file at the beginning of the project
+- 📫 Project lead email: flinn.houston@roi.example.com.au
